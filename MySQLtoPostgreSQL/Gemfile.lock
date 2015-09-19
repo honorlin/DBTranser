@@ -1,0 +1,14 @@
+GEM
+  specs:
+    mysql2 (0.3.18)
+    pg (0.18.2)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  mysql2
+  pg
+
+BUNDLED WITH
+   1.10.3

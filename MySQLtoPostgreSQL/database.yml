@@ -1,0 +1,18 @@
+source_db:
+  adapter: mysql2
+  encoding: utf8
+  database: 
+  username: 
+  password: 
+  pool: 5
+
+
+destination_db: 
+  adapter: postgresql
+  encoding: unicode 
+  database: 
+  pool: 5
+  username: 
+  password: 
+  host: 
+  port: 5432
